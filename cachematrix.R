@@ -7,7 +7,7 @@ makeCacheMatrix <- function(x = matrix()) {
   ## As well as getting and setting the inverse of the matrix.
   ##
   ## Parameters:
-  ##   x (matrix) - The value of the matrix
+  ##   x (matrix) - An invertible square matrix
   ##
   ## Returns: A list of functions representing the cache matrix
   
